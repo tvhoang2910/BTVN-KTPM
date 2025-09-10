@@ -2,7 +2,7 @@
     *   **Docker:** Một nền tảng mã nguồn mở để phát triển, vận chuyển và chạy ứng dụng. Nó cho phép bạn tách biệt ứng dụng khỏi cơ sở hạ tầng bằng cách đóng gói phần mềm vào các "container" tiêu chuẩn. Điều này giúp tăng tốc quá trình tạo, kiểm thử và triển khai ứng dụng.
     *   **Docker Compose:** Một công cụ của Docker dùng để định nghĩa và chạy các ứng dụng đa-container. Nó sử dụng một tệp YAML duy nhất (`docker-compose.yml`) để cấu hình tất cả các dịch vụ, mạng và ổ đĩa cần thiết cho ứng dụng, giúp đơn giản hóa việc triển khai và quản lý các ứng dụng phức tạp.
 
-*   **Linux vs Unix vs BSD hay nix? macOS thuộc loại nào?**
+*   **Linux vs Unix vs BSD hay ***nix? macOS thuộc loại nào?**
     *   **Unix:** Là một hệ điều hành đa nhiệm, đa người dùng, được phát triển lần đầu vào năm 1969. Nó nổi tiếng về tính di động, hiệu quả và ổn định. Unix là nền tảng ban đầu cho nhiều hệ điều hành hiện đại.
     *   **Linux:** Là một hệ điều hành mã nguồn mở dựa trên nhân Linux (được Linus Torvalds phát triển năm 1991). Linux được lấy cảm hứng từ Unix và thường được gọi là một "Unix-like" (giống Unix) hoặc "Unix-compliant" (tương thích Unix) nhưng không phải là Unix chính thức.
     *   **BSD (Berkeley Software Distribution):** Cũng là một hệ điều hành "Unix-like" khác, được phát triển từ mã nguồn của Unix tại Đại học California, Berkeley. Các biến thể phổ biến bao gồm FreeBSD, OpenBSD, NetBSD. BSD có một lịch sử phát triển độc lập và khác biệt so với Linux, mặc dù cả hai đều có nguồn gốc từ Unix.
